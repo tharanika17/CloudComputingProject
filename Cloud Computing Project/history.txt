@@ -1,0 +1,252 @@
+385  cd /
+  386  cd home
+  387  cd Desktop
+  388  cd skacas
+  389  clear
+  390  cd /
+  391  cd home
+  392  cd administrator
+  393  cd skacas
+  394  cd Desktop
+  395  mkdir cw
+  396  cd cw
+  397  mkdir jan | mkdir feb | mkdir mar | mkdir apr | mkdir may | mkdir jun | mkdir jul | mkdir aug | mkdir sep | mkdir oct | mkdir nov | mkdir dec
+  398  cd jan
+  399  touch meetingday.txt
+  400  cd ..
+  401  cd feb
+  402  touch planday2.txt
+  403  cd ..
+  404  cd designday3.txt
+  405  touch designday3.txt
+  406  cd ..
+  407  cd mar
+  408  cd cw
+  409  cd mar
+  410  touch designday3.txt
+  411  cd ..
+  412  cd apr
+  413  touch requirmentday.txt
+  414  cd ..
+  415  cd may
+  416  touch developmentday5.txt
+  417  cd ..
+  418  cd jun
+  419  touch deploymentday6.txt
+  420  cd ..
+  421  cd jul
+  422  touch maintenanceday7.txt
+  423  cd ..
+  424  cd aug
+  425  touch testingday8.txt
+  426  cd ..
+  427  cd sep
+  428  touch theoryday.txt
+  429  cd ..
+  430  cd oct 
+  431  touch practicalday10.txt
+  432  cd nov
+  433  cd ..
+  434  cd nov
+  435  touch vivaday11.txt
+  436  cd ..
+  437  cd dec
+  438  touch executionday12.txt
+  439  cd ..
+  440  pwd
+  441  mv home/administrator/Desktop/cw/jan/meetingday.txt home/administrator/Desktop/cw/feb/planday2.txt
+  442  cd ..
+  443  mv home/administrator/Desktop/cw/jan/meetingday.txt home/administrator/Desktop/cw/feb/planday2.txt
+  444  mv -r home/administrator/Desktop/cw/jan/meetingday.txt home/administrator/Desktop/cw/feb/planday2.txt
+  445  mv --help
+  446  mv /home/administrator/Desktop/cw/jan/meetingday.txt home/administrator/Desktop/cw/feb/planday2.txt
+  447  cd cw
+  448  cd jan
+  449  touch meetingday2.txt
+  450  cd ..
+  451  cd feb
+  452  touch planday1.txt
+  453  cd ..
+  454  cd mar
+  455  touch designday2.txt
+  456  cd ..
+  457  cd apr
+  458  touch requirmentday1.txt
+  459  cd ..
+  460  cd may
+  461  touch developmentday1.txt
+  462  cd ..
+  463  cd jun
+  464  touch maintenanceday1.txt
+  465  cd ..
+  466  cd jul
+  467  touch maintenanceday2.txt
+  468  cd ..
+  469  cd jun
+  470  touch deploymentday1.txt
+  471  cd ..
+  472  cd aug
+  473  touch testingday1.txt
+  474  cd ..
+  475  cd sep
+  476  touch theoryday1.txt
+  477  cd ..
+  478  cd oct
+  479  touch practicalday1.txt
+  480  cd ..
+  481  cd nov
+  482  touch vivaday1.txt
+  483  cd ..
+  484  cd dec
+  485  touch executionday1.txt
+  486  mv /home/administrator/Desktop/jan/meetingday.txt home/administrator/DEsktop/feb/planday1.txt
+  487  mv /home/administrator/Desktop/cw/jan/meetingday.txt home/administrator/Desktop/cw/feb/planday1.txt
+  488  cd ..
+  489  mv /home/administrator/Desktop/cw/jan/meetingday.txt home/administrator/Desktop/cw/feb/planday1.txt
+  490  mv /home/administrator/Desktop/cw/jan/meetingday.txt home/administrator/Desktop/cw/feb 
+  491  mv meetingday.txt /home/administrator/Desktop/cw/feb 
+  492  cd cw
+  493  mv meetingday.txt /home/administrator/Desktop/cw/feb 
+  494  mv meetingday2.txt /home/administrator/Desktop/cw/feb 
+  495  cd ..
+  496  mv meetingday2.txt /home/administrator/Desktop/cw/feb 
+  497  mv /home/administrator/Desktop/cw/jan/meetingday.txt /home/administrator/Desktop/cw/feb 
+  498  cd feb
+  499  mv planday1.txt planrename.txt
+  500  cd feb
+  501  cd cw
+  502  cd feb
+  503  mv planday1.txt planrename.txt
+  504  ls
+  505  cd ..
+  506  touch configurations.txt
+  507  ls
+  508  ls -al
+  509  cd jan
+  510  ls
+  511  ls -al
+  512  cd ..
+  513  cd configuration.txt
+  514  cd configurations.txt
+  515  cat > configurations.txt
+  516  cat configurations.txt
+  517  chmod 700 configurations.txt
+  518  ll configuration.txt
+  519  ll configurations.txt
+  520  cd ..
+  521  mkdir backup directory
+  522* cp /home/administrator/Desktop/cw/jan/meetingday2.txt /home/administrator/Desktop/cw/backup 
+  523  rm executionday1.txt
+  524  cd cw
+  525  cd dec
+  526  rm executionday1.txt
+  527  rm executionday12.txt
+  528  cd ..
+  529  rmkdir dec
+  530  cd ..
+  531  rm dec
+  532  cd cw
+  533  rm dec
+  534  rm -r
+  535  rm -r dec
+  536  nano script.sh
+  537  ./script.sh
+  538  chmod 755 script.sh
+  539  ./script.sh
+  540  nano script.sh
+  541  ./script.sh
+  542  nano script.sh
+  543  ./script.sh
+  544  history
+  545  nano script.sh
+  546  git --version
+  547  top
+  548  ps
+  549  su 
+  550  cat /etc/passwd
+  551  sudo chmod administrator:administrator configurations.txt
+  552  ll configurations.txt
+  553  vim v1.txt
+  554  cd ..
+  555  vim v1.txt
+  556  nano n1.txt
+  557  cat nano1.txt
+  558  cat n1.txt
+  559  nano n1.txt
+  560  cat n1.txt
+  561  nano n1.txt
+  562  cat n1.txt
+  563  grep "welcome" meeting2.txt
+  564  cd cw
+  565  grep "welcome" meetingday2.txt
+  566  cd jan
+  567  grep "welcome" meetingday2.txt
+  568  cd ..
+  569  grep f*.txt
+  570  grep m*.txt
+  571  grep -r jan
+  572  grep jan cw
+  573  cd ..
+  574  grep jan cw
+  575  grep jan
+  576  cd cw
+  577  mkdir user
+  578  mkdir user.txt
+  579  cat > hello world
+  580  cat > user.txt
+  581  touch user.txt
+  582  cat > user.txt
+  583  cd user 
+  584  touch user.txt
+  585  cat > user.txt
+  586  chmod 700 user.txt
+  587  ll user.txt
+  588  cd ..
+  589  mkdir group
+  590  cd group
+  591  touch group.txt
+  592  cat > group.txt
+  593  chmod 070 group.txt
+  594  ll group.txt
+  595  cd ..
+  596  mkdir other
+  597  cd other
+  598  touch other.txt
+  599  cat > other.txt
+  600  chmod 007 other.txt
+  601  ll other.txt
+  602  nano script1.sh
+  603  ./script1.sh
+  604  chmod 777 script1.sh
+  605  ./script1.sh
+  606  nano script1.sh
+  607  ./script1.sh
+  608  nano script1.sh
+  609  grep "REPORT" n1.txt | wc-l
+  610  cd ..
+  611  grep "REPORT" n1.txt | wc-l
+  612  grep "REPORT" n1.txt | wc -l
+  613  cat n1.txt
+  614  grep "REPLACE" n1.txt | wc -l
+  615  nano if.sh
+  616  nano script.sh
+  617  nano script1.sh
+  618  ./script1.sh
+  619  chmod 777 script1.sh
+  620  ./script1.sh
+  621  nano script1.sh
+  622  ./script1.sh
+  623  nano script1.sh
+  624  ./script1.sh
+  625  nano script1.sh
+  626  ./script1.sh
+  627  nano script1.sh
+  628  ./script1.sh
+  629  nano script2.txt
+  630  nano script2.sh
+  631  chmod 777  script2.sh
+  632  ./ script2.sh
+  633  ./script2.sh
+  634  nano script2.sh
+  635  history
+
